@@ -1,21 +1,11 @@
 
-
-createed django project
-created app
-created ticket model
-added serialiers
-
-installed rest framework
-
+Project setup
 
 python manage.py makemigrations
+
 python migrate
 
 python manage.py runserver
 
-python manage.py test
 
-
-
-# theater_tickets
 # theater_tickets
